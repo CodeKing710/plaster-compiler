@@ -1,4 +1,4 @@
-Plaster Compiler
+Plaster Compiler (Project on hold)
 
 A complete rethink of PlasterLang and how it will function.
 
